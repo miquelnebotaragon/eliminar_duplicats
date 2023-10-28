@@ -21,9 +21,8 @@ Marchante Rodríguez Antonio | 18224466B
 Sánchez Romero Juana | 18227788C
 Sanchis Torres Jaume | 18223344A  
 
-
 # 💻 Escenari
- 
+
 Visual Studio Code Versió: 1.83.1  
 SO: Linux x64 6.1.0-13-amd64  
 
@@ -119,7 +118,7 @@ elif opcio == 3:
 ```
 
 A continuació engegam una sentència condicional tot tenint en compte la sol·licitud de l'usuari:  
-    - Si ha escollit **opció 1**: Emprarem l'argument "duplicated" aplicat sobre la nostra variable "data" per comprovar la columna "dni" (*subset = 'dni'*) i poder afegir així una tercera columna amb la indicació "valor_duplicat" cada vegada que en trobi un.  
+    - Si ha escollit **opció 1**: Emprarem l'argument "duplicated" aplicat sobre la nostra variable "data" per comprovar la columna "dni" (*subset = 'dni'*) i poder afegir així una tercera columna ("valor_duplicat") amb la indicació *True* cada vegada que en trobi un.  
     - Si ha escollit **opció 2**: Niarem aquí una segona sentència condicional per tal que, novament, l'usuari triï si vol mantenir el primer o el darrer valor duplicat que aparegui al llistat. Amb l'argument "keep" sabrem de quina manera volem procedir.  
     - Si ha escollit **opció 3**: En canvi, si l'argument "keep" el marcam com a *False*, el programa esborrarà aquests valors duplicats del llistat.
 
