@@ -21,7 +21,7 @@ elif opcio == 2:
         mantenir='last'
     data.drop_duplicates(subset = 'dni', keep=mantenir, inplace = True) # Amb "keep" mantindrem (a decisió de l'usari) el primer o el darrer valor.
 elif opcio == 3:
-    data.drop_duplicates(subset = 'dni', keep=False, inplace = True) # Amb "keep = False" esborrarem tots els duplicats.
+    data.drop_duplicates(subset = 'dni', keep=False, inplace = True) # Amb "keep = False" esborrarem els duplicats.
 
 dataframe = data
 
