@@ -10,7 +10,6 @@
 </p>
 <div align="center"><img src="https://github.com/miquelnebotaragon/eliminar_duplicats/assets/57944755/ea8ef0b1-b055-41ed-990e-8d603b84324f"></div>
 
-
 # 👁️‍🗨️ Introducció
 
 En aquesta activitat treballarem en una aplicació capaç d'eliminar duplicats d'un llistat en format CSV. Per exemplificar el cas, ho farem a partir d'un arxiu que disposa únicament de dues columnes i segueix el model següent:  
@@ -56,7 +55,7 @@ user@debian-mnebot:~$ sudo pip install pandas
 
 Copiarem el codi següent 👇 a un arxiu amb extensió **.py** al nostre ordinador (per exemple **eliminar_duplicats.py**).  
 
-📝 Descàrrega de l'arxiu .py i el fitxer d'exemple des d'<a href="https://github.com/miquelnebotaragon/endevina_numero/blob/main/encerta_numero.py" target="_blank">aquí</a>.  
+📝 Descàrrega de l'arxiu .py i el fitxer d'exemple des d'<a href="https://github.com/miquelnebotaragon/eliminar_duplicats/blob/main/eliminar_duplicats.py" target="_blank">aquí</a>.  
 
 # 🏆 Vull saber-ne més
 
