@@ -8,7 +8,7 @@
     <img alt="Twitter: Miquel Nebot" src="https://img.shields.io/twitter/follow/miquelnebot.svg?style=social" />
   </a>
 </p>
-<div align="center"><img src="https://github.com/miquelnebotaragon/endevina_numero/assets/57944755/d8f0cc43-c2b2-4202-bb0c-97c1fa3ac541"></div>
+<div align="center"><img src="https://github.com/miquelnebotaragon/eliminar_duplicats/assets/57944755/ea8ef0b1-b055-41ed-990e-8d603b84324f"></div>
 
 
 # 👁️‍🗨️ Introducció
