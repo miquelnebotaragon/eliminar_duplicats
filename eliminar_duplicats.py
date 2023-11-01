@@ -2,8 +2,9 @@
 # _*_ coding: utf-8 _*_
 # Miquel Nebot · @miquelnebot · Octubre 2023
 
-# Importació de mòduls
-import pandas as pd
+# Importació de mòduls i creació d'àlies
+import pandas as pd 
+
 
 # Variables
 data = pd.read_csv('sample.csv') # Pandas llegirà la informació del full de càlcul.
@@ -26,4 +27,4 @@ elif opcio == 3:
 dataframe = data
 
 dataframe.to_csv('output.csv') # Copiarem la nova informació en format de dataframe a un nou arxiu CSV.
-print('El programa ha finalitzat amb èxit!')
+#print('El programa ha finalitzat amb èxit!')
